@@ -1,6 +1,6 @@
 ![MITLicense](https://img.shields.io/static/v1?label=MIT&message=license&color=success)
 
- # ORM Back-End E-Commerce
+ # Back-End E-Commerce
 
   ## Description
   The back end of an e-commerce website was built using the latest technologies so that the company can compete with other e-commerce companies. This was created using MYSQL2 and Sequelize.
