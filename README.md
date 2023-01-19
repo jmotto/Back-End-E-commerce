@@ -2,15 +2,20 @@
 
  # Back-End E-Commerce
 
-  ## Description
-  This challenge was to build the back end of an e-commerce website using the latest technologies so that the company can compete with other e-commerce companies. This was created using [MYSQL2](https://www.npmjs.com/package/mysql) and [Sequelize](https://www.npmjs.com/package/sequelize), as well as, the [Express](https://www.npmjs.com/package/express) and [dotenv](https://www.npmjs.com/package/dotenv) npm packages.
+  The back end of an e-commerce website was built using the latest technologies so that the company can compete with other e-commerce companies. This was created using [MYSQL2](https://www.npmjs.com/package/mysql) and [Sequelize](https://www.npmjs.com/package/sequelize), as well as, the [Express](https://www.npmjs.com/package/express) and [dotenv](https://www.npmjs.com/package/dotenv) npm packages.
 
   ## Table of Contents
   * [Installation](#installation)
+  * [Technologies](#technologies)
   * [Usage](#usage)
   * [License](#license)
   * [Questions](#questions)
-
+  
+  ## Technologies
+  * [MYSQL2](https://www.npmjs.com/package/mysql)
+  * [Sequelize](https://www.npmjs.com/package/sequelize)
+  * [Express](https://www.npmjs.com/package/express)
+  * [dotenv](https://www.npmjs.com/package/dotenv)
   ## Installation
   `npm run seed`
   </br>`npm run start`
